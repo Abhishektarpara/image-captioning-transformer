@@ -10,6 +10,7 @@ The dataset used in this project is the Flickr8K dataset, a widely used benchmar
 ## Model Architecture
 The image captioning system incorporates a combination of transformer-based models and convolutional neural networks (CNNs) to generate accurate and contextually relevant captions. The key components of the model architecture are as follows:
 
+![22](https://github.com/Abhishektarpara/image-captioning-transformer/assets/121369602/435fe932-1d8d-4afc-8699-d63b02878d46)
 
 
 
