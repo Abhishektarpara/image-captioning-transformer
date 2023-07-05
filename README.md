@@ -7,6 +7,10 @@ This project focuses on implementing an image captioning system using a transfor
 
 ## Dataset
 The dataset used in this project is the Flickr8K dataset, a widely used benchmark dataset for image captioning tasks. It contains 8000 high-quality images gathered from the Flickr platform, along with corresponding captions provided by human annotators. The dataset serves as the training and evaluation data for the image captioning model. Each image is associated with five different captions, providing diverse textual descriptions for a given visual content.
+
+![aaa](https://github.com/Abhishektarpara/image-captioning-transformer/assets/121369602/ac23bfe9-9d65-4b3c-80ae-4a71b4fd5c6a)
+
+
 ## Model Architecture
 The image captioning system incorporates a combination of transformer-based models and convolutional neural networks (CNNs) to generate accurate and contextually relevant captions. The key components of the model architecture are as follows:
 
